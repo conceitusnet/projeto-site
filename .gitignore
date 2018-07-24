@@ -1,0 +1,10 @@
+# Logs
+logs
+*.Logs
+
+# Diretório e arquivos compilados
+build/
+bundle.js
+
+# Dretórios de dependência
+node_modules/
